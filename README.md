@@ -1,5 +1,5 @@
 ### Hi; I'm Mukesh S ! 👋
-❤️I'm a self-taught passionate FrontEnd developer❤️
+I'm a self-taught passionate FrontEnd developer
 
 About Me
 
@@ -7,7 +7,7 @@ About Me
 - ❤️ Good Knowledge in React.js, Angular.js.
 - 🌱 I’m currently learning Node.js, mongo DB , SAP.
 - 💬 Ask me about C++,React,Angular !!
-- ⚡ Fun fact: I spend almost 12 hours coding everyday !!
+- ⚡ Fun fact: I spend almost 6 hours coding everyday !!
 
 Languages and Tools:
 
