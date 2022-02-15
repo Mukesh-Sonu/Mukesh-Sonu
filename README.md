@@ -6,7 +6,6 @@ About Me
 - 💼 I’m currently an Intern at KAAR Technologies !!
 - ❤️ Good Knowledge in React.js, Angular.js.
 - 🌱 I’m currently learning Node.js, mongo DB , SAP.
-- 👯 I’m looking to collaborate on Web Technologies
 - 💬 Ask me about C++,React,Angular !!
 - ⚡ Fun fact: I spend almost 12 hours coding everyday !!
 
