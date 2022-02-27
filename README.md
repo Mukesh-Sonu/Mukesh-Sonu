@@ -3,7 +3,6 @@ I'm a self-taught passionate FrontEnd developer
 
 About Me
 
-- 💼 I’m currently an Intern at KAAR Technologies !!
 - ❤️ Good Knowledge in React.js, Angular.js.
 - 🌱 I’m currently learning Node.js, mongo DB , SAP.
 - 💬 Ask me about C++,React,Angular !!
