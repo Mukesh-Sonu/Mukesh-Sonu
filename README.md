@@ -5,7 +5,7 @@ About Me
 
 - ❤️ Good Knowledge in React.js, Angular.js.
 - 🌱 I’m currently learning Node.js, mongo DB , SAP.
-- 💬 Ask me about C++,React,Angular !!
+- 💬 Ask me about C++, React, Angular !!
 - ⚡ Fun fact: I spend almost 6 hours coding everyday !!
 
 Languages and Tools:
