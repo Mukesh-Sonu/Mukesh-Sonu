@@ -15,8 +15,8 @@ Languages and Tools:
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-00bfff?logo=css3&logoColor=fff)
 ![](https://img.shields.io/badge/-JS-ffff00?logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-NODE-00ff00?logo=node.js&logoColor=fff)
-![](https://img.shields.io/badge/-mongoDB-fff?logo=MongoDb&logoColor=#00599C)
+<!-- ![](https://img.shields.io/badge/-NODE-00ff00?logo=node.js&logoColor=fff)
+![](https://img.shields.io/badge/-mongoDB-fff?logo=MongoDb&logoColor=#00599C) -->
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MUKESH-SONU&count_private=true&show_icons=true&theme=radical)
