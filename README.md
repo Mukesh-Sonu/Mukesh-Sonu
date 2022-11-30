@@ -1,4 +1,4 @@
-### Hi; I'm Mukesh S ! 👋
+### Hi; I'm Mukesh S! 👋
 I'm a self-taught passionate FrontEnd developer
 
 About Me
