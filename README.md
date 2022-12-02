@@ -3,9 +3,9 @@ I'm a self-taught passionate FrontEnd developer
 
 About Me
 
-- ❤️ Good Knowledge in React.js, Angular.js.
-- 🌱 I’m currently learning Node.js, mongo DB , SAP.
-- 💬 Ask me about C++, React, Angular !!
+- ❤️ Good Knowledge in React.js.
+- 🌱 I’m currently Working in KeepWorks Technologies, Banglore.
+- 💬 Ask me about C++, React!!
 - ⚡ Fun fact: I spend almost 6 hours coding everyday !!
 
 Languages and Tools:
@@ -15,6 +15,7 @@ Languages and Tools:
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-00bfff?logo=css3&logoColor=fff)
 ![](https://img.shields.io/badge/-JS-ffff00?logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/%3CReact%3E-%3CBlue%3E)
 <!-- ![](https://img.shields.io/badge/-NODE-00ff00?logo=node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-mongoDB-fff?logo=MongoDb&logoColor=#00599C) -->
 
