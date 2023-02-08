@@ -3,7 +3,7 @@ I'm a self-taught passionate FrontEnd developer
 
 About Me
 
-- ❤️ Good Knowledge in React.js.
+- ❤️ Good Knowledge in ReactJS and NextJS.
 - 🌱 I’m currently Working in KeepWorks Technologies, Banglore.
 - 💬 Ask me about C++, React!!
 - ⚡ Fun fact: I spend almost 6 hours coding everyday !!
