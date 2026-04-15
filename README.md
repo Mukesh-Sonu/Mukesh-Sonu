@@ -4,8 +4,8 @@ I'm a self-taught passionate FrontEnd developer
 About Me
 
 - ❤️ Good Knowledge in ReactJS and NextJS.
-- 🌱 I’m currently Working in KeepWorks Technologies, Banglore.
-- 💬 Ask me about C++, React!!
+- 🌱 I’m currently Working in Leadsquared, Banglore.
+- 💬 Ask me about C++, React, Javascript!!
 - ⚡ Fun fact: I spend almost 6 hours coding everyday !!
 - Here's the link to my portfolio website: https://mukesh-portfolio-sonu.netlify.app/
 
